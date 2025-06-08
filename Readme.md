@@ -10,7 +10,7 @@ This project focuses on analyzing retail sales data using business intelligence 
 
 ## 📂 Files Included:
 
-==>Retail_Sales_Dashboard.pbix → Power BI dashboard file
+- ==>Retail_Sales_Dashboard.pbix → Power BI dashboard file
 
 ==>Retail_Sales_Data.xlsx → Raw dataset used for analysis
 
