@@ -1,15 +1,15 @@
 # Retail-Sales-Performance-Dashboard
 (Data Analytics Project)
 
-##🎯 Objective:
+#🎯 Objective:
 
 The objective of this project was to analyze retail sales data to understand customer behavior, product performance, and overall sales trends. Using Power BI, I created interactive dashboards and interpreted insights to suggest data-driven actions for improving business outcomes.
 
-##📁 Project Overview:
+#📁 Project Overview:
 
 This project focuses on analyzing retail sales data using business intelligence tools to uncover patterns, trends, and actionable insights. It demonstrates how data-driven decisions can help improve overall business performance.The main goal was to create a dashboard using Power BI that presents sales metrics clearly and helps identify opportunities for growth.
 
-##📂 Files Included:
+#📂 Files Included:
 
 ==>Retail_Sales_Dashboard.pbix → Power BI dashboard file
 
