@@ -10,28 +10,25 @@ This project focuses on analyzing retail sales data using business intelligence 
 
 ## 📂 Files Included:
 
-- ==>Retail_Sales_Dashboard.pbix → Power BI dashboard file
-
-==>Retail_Sales_Data.xlsx → Raw dataset used for analysis
-
-==>SQL_Queries.txt → SQL scripts for data cleaning and transformation
-
-==>Insights_Document.pdf → Key findings and suggested business strategies
-
-==>ReadMe.md → Project description and summary (this file)
+- Retail_Sales_Dashboard.pbix → Power BI dashboard file
+- Retail_Sales_Data.xlsx → Raw dataset used for analysis
+- SQL_Queries.txt → SQL scripts for data cleaning and transformation
+- Insights_Document.pdf → Key findings and suggested business strategies
+- ReadMe.md → Project description and summary (this file)
 
 ## 🔑 Key Features:
 
 ✅ Data Cleaning & Transformation: Handled using SQL in SSMS.
+
 ✅ Dashboard Development: Built interactive visuals in Power BI.
+
 ✅ Insights & Trends: Extracted key business insights from data
 
 ## 🚀 Technologies Used:
 
-SQL (SSMS)
-Power BI
-Excel
+- SQL (SSMS)
+- Power BI
+- Excel
 
 ## 📎 Acknowledgements
-
 This project was created as part of a learning experience and showcases how data tools can solve real business problems.
