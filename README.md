@@ -12,9 +12,13 @@ This project focuses on analyzing retail sales data using business intelligence 
 📂 Files Included:
 
 ==>Retail_Sales_Dashboard.pbix → Power BI dashboard file
+
 ==>Retail_Sales_Data.xlsx → Raw dataset used for analysis
+
 ==>SQL_Queries.txt → SQL scripts for data cleaning and transformation
+
 ==>Insights_Document.pdf → Key findings and suggested business strategies
+
 ==>ReadMe.md → Project description and summary (this file)
 
 🔑 Key Features:
